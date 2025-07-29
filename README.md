@@ -6,5 +6,6 @@ I mainly made this to convert all my trilium notes markdown export to org files 
 Download trilium-md2doc.py
 
 $ chmod +x trilium_md2org.py
-$ ./trilium_md2org.py /path/to/md /path/to/org
+
+$./trilium_md2org.py /path/to/md /path/to/org
 
